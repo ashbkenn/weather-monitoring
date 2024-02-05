@@ -1,0 +1,10 @@
+/Users/ashlynkennedy/Desktop/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/DisplayElement.java
+/Users/ashlynkennedy/Desktop/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/CurrentConditionDisplay.java
+/Users/ashlynkennedy/Desktop/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/StatisticsDisplay.java
+/Users/ashlynkennedy/Desktop/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/ForecastDisplay.java
+/Users/ashlynkennedy/Desktop/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/Observer.java
+/Users/ashlynkennedy/Desktop/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/controllers/HomeController.java
+/Users/ashlynkennedy/Desktop/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/WeatherMonitoringApplication.java
+/Users/ashlynkennedy/Desktop/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/Subject.java
+/Users/ashlynkennedy/Desktop/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/model/WeatherData.java
+/Users/ashlynkennedy/Desktop/weather-monitoring/src/main/java/edu/iu/habahram/weathermonitoring/controllers/DisplayController.java
